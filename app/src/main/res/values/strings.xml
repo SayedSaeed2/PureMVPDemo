@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PureMVPDemo</string>
+
+    <string name="enter_first_name">Enter your last name</string>
+    <string name="enter_last_name">Enter your last name</string>
+    <string name="submit">Submit</string>
+
+
+</resources>
